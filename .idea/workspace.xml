@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092d8f44-da7b-427f-b9e2-ee68f1e7135a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/NyStockMarktObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/StockAgencies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/TokioStockMarktObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/n1exercici1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/n1exercici1/NyStockMarktObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/NyStockMarktObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/n1exercici1/StockAgencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/StockAgencies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/n1exercici1/TokioStockMarktObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/TokioStockMarktObserver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +20,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,8 +56,12 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ainohabarcia/Documents/IT ACADEMY/SPRING_3_PATTERNS/S3_02_PATTERNS2/src/main/java/org/example/Main.java&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ainohabarcia/Documents/IT ACADEMY/SPRING_3_PATTERNS/S3_02_PATTERNS2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ainohabarcia/Documents/IT ACADEMY/SPRING_3_PATTERNS/S3_02_PATTERNS2/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="RunManager">

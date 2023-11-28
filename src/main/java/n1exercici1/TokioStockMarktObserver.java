@@ -1,8 +1,8 @@
 package n1exercici1;
 
 public class TokioStockMarktObserver extends Observer {
-    private double price = 34.2;
 
+    private float price = 34.3F;
     public TokioStockMarktObserver(StockAgencies stockAgency) {
         this.stockAgency = stockAgency;
         this.stockAgency.addStockAgency(this);
@@ -10,6 +10,6 @@ public class TokioStockMarktObserver extends Observer {
 
     @Override
     public void update() {
-        System.out.println("Ha invertido " + stockAgency.getVariation()*price+ " € en la bolsa de Tokio");
+        System.out.println("Ha invertido " + stockAgency.getActions()*price+ " € en la bolsa de Tokio");
     }
 }

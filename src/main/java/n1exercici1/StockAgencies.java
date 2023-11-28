@@ -5,14 +5,14 @@ import java.util.List;
 
 public class StockAgencies {
     private List<Observer> observers = new ArrayList<Observer>();
-    private double variation;
+    private float actions;
 
-    public double getVariation() {
-        return variation;
+    public float getActions() {
+        return actions;
     }
 
-    public void setVariation(double variation) {
-        this.variation = variation;
+    public void setActions(float actions) {
+        this.actions = actions;
         notifyAllObservers();
     }
     public void addStockAgency (Observer observer){

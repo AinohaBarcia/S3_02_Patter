@@ -1,7 +1,7 @@
 package n1exercici1;
 
 public class NyStockMarktObserver extends Observer {
-    private double price = 44.6;
+    private float price = 44.6F;
 
     public NyStockMarktObserver(StockAgencies stockAgency) {
         this.stockAgency = stockAgency;
@@ -10,6 +10,6 @@ public class NyStockMarktObserver extends Observer {
 
     @Override
     public void update() {
-        System.out.println("Ha invertido " + stockAgency.getVariation()*price+ " € en la bolsa de Nueva YHork");
+        System.out.println("Ha invertido " + stockAgency.getActions()*price+ " € en la bolsa de Nueva York");
     }
 }
